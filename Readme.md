@@ -1,4 +1,4 @@
-# Repository for allowing me to freely create without fear of failure
+# Repository to freely create without fear of failure
 ### BuildingHere repository is being used to help fuel the mindset of improving programming skills through repetition and being creative.
 
 # Repository strucutre
