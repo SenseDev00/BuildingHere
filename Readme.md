@@ -1,20 +1,6 @@
-###Technologies Used
+### Repository for allowing me to freely create without fear of failure
+BuildingHere repository is being used to help fuel the mindset of improving programming skills through repetition and being creative.
 
-NodeJS
-Hardhat
-Truffle
-Solidity
-
-###What do you need?
-    Coding Skills(Checked lol)
-    
- 
-##What is this project's purpose?
-This project is the demonstrate how to create a NFT collection
-
-Token: ERC-721
-
-
-
-    
-    
+### Repository strucutre
+DAPP - Full stack Development
+Contracts - Solidity Smart Contract Development
